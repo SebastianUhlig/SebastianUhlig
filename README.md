@@ -1,6 +1,6 @@
 Hey ✌️
 
-I'm [**Sebastian**](https://www.bitblicke.de). Software Developer at [CHECK24](https://check24.de).
+I'm [**Sebastian**](https://www.bitblicke.de). Software Developer at [Check24 GmbH](https://check24.de).
 
 Primarily working with the [Laravel](https://laravel.com) Framework and currently learning Symfony. 
 
