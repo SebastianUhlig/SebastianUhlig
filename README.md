@@ -1,6 +1,6 @@
 Hey ✌️
 
-I'm [**Sebastian**]. Full Stack Developer.
+I'm **Sebastian**. Full Stack Developer.
 
 Primarily working with the [Laravel](https://laravel.com) Framework. 
 
